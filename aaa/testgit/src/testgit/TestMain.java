@@ -8,7 +8,7 @@ public class TestMain {
 		System.out.println("22222333332222");
 		System.out.println("444444444");
 		System.out.println("55666666666655");
-		System.out.println("66666666666666");
+		System.out.println("66777776666");
 	}
 
 }
