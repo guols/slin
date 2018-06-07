@@ -18,7 +18,7 @@ public class TestMain {
     }
 
     private static void jiami() {
-        System.out.println("bbbbzzzbbbb");
+        System.out.println("vvvvvvvvvvvvvvvvvv");
         System.out.println("加密码！");
     }
 
