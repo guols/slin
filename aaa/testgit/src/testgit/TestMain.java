@@ -17,4 +17,11 @@ public class TestMain {
         System.out.println("美国");
     }
 
+    protected static void commons() {
+        int d = 0;
+        d = Integer.parseInteger("3");
+
+        System.out.println(d);
+    }
+
 }
