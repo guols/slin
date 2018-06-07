@@ -23,12 +23,9 @@ public class TestMain {
     }
 
     private static void test1() {
-        System.out.println("分支1");
+        System.out.println("分支6666666");
     }
 
 
-    private static void test1() {
-        System.out.println("分支1");
-    }
 
 }
