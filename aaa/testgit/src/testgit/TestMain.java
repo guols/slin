@@ -22,16 +22,12 @@ public class TestMain {
         System.out.println("加密码！");
     }
 
-    private static void test1() {
-        System.out.println("分支1");
+    private static void test2() {
+        System.out.println("分支222222222");
     }
 
-    private static void test1() {
-        System.out.println("分支1");
-    }
-
-    private static void test1() {
-        System.out.println("分支1");
+    private static void test2() {
+        System.out.println("分支2222222222");
     }
 
 }
