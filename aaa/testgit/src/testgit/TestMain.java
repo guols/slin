@@ -28,7 +28,7 @@ public class TestMain {
 
 
     private static void test2() {
-        System.out.println("分支2");
+        System.out.println("分支1");
     }
 
 }
