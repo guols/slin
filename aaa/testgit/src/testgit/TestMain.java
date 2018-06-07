@@ -4,8 +4,8 @@ public class TestMain {
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        System.out.println("44444444444444444");
-        System.out.println("99998888889999");
+        System.out.println("dddddddd");
+        System.out.println("eeeeee");
 
     }
 
@@ -14,9 +14,11 @@ public class TestMain {
         d = Integer.parseInteger("3");
         System.out.println("tttttttttttttt");
         System.out.println(d);
+        System.out.println("aaaaa");
     }
 
     private static void jiami() {
+        System.out.println("bbbbbbbbb");
         System.out.println("加密码！");
     }
 
