@@ -9,14 +9,13 @@ public class TestMain {
 
     }
 
-    private static void jiami() {
+    private static void jiami333333() {
         System.out.println("加密111111111码！");
     }
 
     protected static void commons() {
         int d = 0;
         d = Integer.parseInteger("3");
-        System.out.println("dsdddd");
         System.out.println(d);
     }
 
