@@ -9,21 +9,9 @@ public class TestMain {
 
     }
 
-    protected static void commons() {
-        int d = 0;
-        d = Integer.parseInteger("3");
-        System.out.println("ttttbbbtttt");
-        System.out.println(d);
-        System.out.println("aaaaa");
-    }
-
-    private static void jiami() {
-        System.out.println("vvvvvvvvvvvvvvvvvv");
-        System.out.println("加密码！");
-    }
 
     private static void test1() {
-        System.out.println("分支6666666");
+        System.out.println("分支11111111111");
     }
 
 
