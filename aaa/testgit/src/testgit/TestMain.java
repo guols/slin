@@ -13,7 +13,7 @@ public class TestMain {
     }
 
     protected static void test() {
-
+        System.out.println("hello");
     }
 
 }
