@@ -23,7 +23,7 @@ public class TestMain {
     }
 
     private static void test4() {
-        System.out.println("分支1");
+        System.out.println("分支3");
     }
 
 
