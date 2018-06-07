@@ -22,13 +22,8 @@ public class TestMain {
         System.out.println("加密码！");
     }
 
-
-    private static void test4(){
-        
-    }
-
-    private static void test5(){
-
+    private static void test4() {
+        System.out.println("分支1");
     }
 
 }
