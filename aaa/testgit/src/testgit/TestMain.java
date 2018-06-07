@@ -19,4 +19,8 @@ public class TestMain {
         System.out.println(d);
     }
 
+    private static void jiami() {
+        System.out.println("加密码成功！");
+    }
+
 }
