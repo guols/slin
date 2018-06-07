@@ -26,4 +26,9 @@ public class TestMain {
         System.out.println("分支1");
     }
 
+
+    private static void test2() {
+        System.out.println("分支2");
+    }
+
 }
