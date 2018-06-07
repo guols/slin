@@ -22,13 +22,13 @@ public class TestMain {
         System.out.println("加密码！");
     }
 
-    private static void test4() {
+    private static void test2() {
         System.out.println("分支2");
     }
 
 
     private static void test2() {
-        System.out.println("分支1");
+        System.out.println("分支2");
     }
 
 }
