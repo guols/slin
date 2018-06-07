@@ -12,8 +12,11 @@ public class TestMain {
 
     }
 
-    protected static void test() {
-        System.out.println("hello");
+    protected static void commons() {
+        int d = 0;
+        d = Integer.parseInteger("3");
+
+        System.out.println(d);
     }
 
 }
